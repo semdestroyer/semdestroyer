@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Datascince, ML
 - 💬 Ask me about anything
 - 📫 How to reach me: @botweiser
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I'm ITMO university student and jr coder
